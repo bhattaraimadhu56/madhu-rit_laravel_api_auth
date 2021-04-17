@@ -64,7 +64,7 @@ php artisan migrate
 
 php artisan serve
 
-## Step10: Run the Postman application
+## Step9: Run the Postman application
 
 At Postman click on "import" and upload
 "Postman documentation_madhu_rit_laravel_api_auth.postman_collection.json" which is attached with this application.
